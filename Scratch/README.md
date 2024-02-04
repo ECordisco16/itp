@@ -24,3 +24,4 @@ Created a conversation between Jellyfish and Mermaid.
 Still need to add variable. Don't exactly understand what variable means.
 Watched this Youtube video : https://www.google.com/search?q=what+is+a+variable+in+scract&oq=what+is+a+variable+in+scract&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjINCAcQABiGAxiABBiKBTINCAgQABiGAxiABBiKBTINCAkQABiGAxiABBiKBdIBCDM2MjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:beb95c15,vid:5vK9IL4tCbk,st:0 to understand variables.
 I used a similar variable to the youtube video where I used it to change the size of my character. Storyline wise I don't know how well it works, but I figured out the variables.
+Finsihed project after adding variable. 
