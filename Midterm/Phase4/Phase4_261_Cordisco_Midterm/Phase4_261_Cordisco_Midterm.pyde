@@ -24,5 +24,10 @@ def draw():
     drawObject(0,0,1)
     drawObject(0,10,2)
     
-    for (int i=0, i<5, i+1) 
-    draw(0+i*25, 0, 1)
+    x = width
+    y = height
+    for i in range (400,400):
+        for j in range (400,400)
+
+    #for (int i=0, i<5, i+1) 
+    #draw(0+i*25, 0, 1)
