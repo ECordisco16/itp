@@ -1,4 +1,7 @@
--First I wanted to get used to using this software/ code so I researched examples of how to insert images into the code and certain shapes I may want to add. (https://editor.p5js.org/claesjohnson/sketches/f0huO1Y4h)  (https://www.google.com/search?q=how+to+add+images+to+p5js&oq=how+to+add+photo+to+p5&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyDQgGEAAYhgMYgAQYigUyDQgHEAAYhgMYgAQYigXSAQkxMDQ5OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:21864d3e,vid:friYx8xdLOE,st:0)
+FINAL PROJECT LINK: https://ecordisco16.github.io/
+
+
+First I wanted to get used to using this software/ code so I researched examples of how to insert images into the code and certain shapes I may want to add. (https://editor.p5js.org/claesjohnson/sketches/f0huO1Y4h)  (https://www.google.com/search?q=how+to+add+images+to+p5js&oq=how+to+add+photo+to+p5&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyDQgGEAAYhgMYgAQYigUyDQgHEAAYhgMYgAQYigXSAQkxMDQ5OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:21864d3e,vid:friYx8xdLOE,st:0)
   Some of the commands I needed to use were not showing up, such as a spot to add the image that I wanted to call to in my code. I realized I had to make an account in order to add images.
 - My first set of code was adding the main image into p5.js:
 let AK
